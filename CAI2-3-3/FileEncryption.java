@@ -1,8 +1,9 @@
+
+import java.io.*;
 import java.util.Scanner;
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 import javax.crypto.spec.IvParameterSpec;
-import java.io.*;
 import java.security.SecureRandom;
 import java.security.Key;
 
